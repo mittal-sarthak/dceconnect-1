@@ -1,6 +1,6 @@
 == README
-#DCE CONNECT
-** a tumblr based microblogging site **
+#DCE CONNECT 
+  ** tumblr based microblogging site **
 > Minor & WebD project
 
 ## Overview
